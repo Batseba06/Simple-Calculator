@@ -1,0 +1,29 @@
+
+#display{
+   margin: 10px;
+   padding: 50px;
+   background-color: white;
+   font-weight: bold;
+}
+#Calculator{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 15px;
+    margin: 80px 200px 80px 500px;
+    color: white;
+    background-color: black;
+    width: 400px;
+    height: 600px;
+}
+
+
+.buttons{
+    padding: 19px;
+    font-size: 1em;
+    font-weight: bold;
+    color:white;
+    margin: 5px;
+    border-radius: 50px;
+    background-color: gray;
+
+}
